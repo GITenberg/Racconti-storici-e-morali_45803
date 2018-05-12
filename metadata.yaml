@@ -1,0 +1,36 @@
+_repo: Racconti-storici-e-morali_45803
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45803-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cantù, Cesare
+    alias: Cantu, Cesare
+    birthdate: 1804
+    deathdate: 1895
+    gutenberg_agent_id: '2238'
+    url: http://www.gutenberg.org/2009/agents/2238
+    wikipedia: http://en.wikipedia.org/wiki/Cesare_Cantù
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2014-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45803'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, Italian'
+- !lcsh 'Italian fiction'
+tableOfContents: Avventure guerresche di un uomo di pace -- Una figlia di Galileo
+  Galilei -- Tecla -- Una buona famiglia -- La madre -- Conforti d'un vecchio ai vecchi
+  -- Il letterato -- Gli artigiani -- Franklin -- Indignarsi e soccombere, perseverare
+  e riuscire -- L'ultimo degli Hohenstaufen -- Giangiacomo Medici -- Bona Lombarda
+  -- Girolamo Cardano -- Due alchimisti italiani -- Rostopcin -- Me al naturale --
+  I frati pacieri -- Dell'attaccar lite.
+title: Racconti storici e morali
+url: http://www.gutenberg.org/ebooks/45803
