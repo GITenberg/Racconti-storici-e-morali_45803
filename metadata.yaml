@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2238
     wikipedia: http://en.wikipedia.org/wiki/Cesare_Cantù
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45803#Racconti-storici-e-morali
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2014-05-28'
 gutenberg_type: Text
